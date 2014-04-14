@@ -1,4 +1,4 @@
-Forest-Gump-Script
+Forrest-Gump-Script
 ==================
 
-Forest Gump Script. Source from IMDB. Organized by Kent Peifeng Ke.
+Forrest Gump Script. Source from IMDB. Organized by Kent Peifeng Ke.
